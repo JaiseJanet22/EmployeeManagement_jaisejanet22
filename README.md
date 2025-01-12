@@ -17,5 +17,5 @@ This project implements an Employee Management System with APIs for user authent
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/jaisejanet22/EmployeeManagementSystem.git
+git clone https://github.com/JaiseJanet22/EmployeeManagementSystem.git
 cd EmployeeManagementSystem/backend
